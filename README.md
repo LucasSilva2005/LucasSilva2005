@@ -4,8 +4,7 @@
 - 💞️ I currently study at FIAP
 
 <div>
-  <img height="200em" src= "https://github-readme-stats.vercel.app/api?username=LucasSilva2005&show_icons=true&theme=radical"/>
-  <img height="200em" src= "https://github-readme-stats.vercel.app/api?username=LucasSilva2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
+  <img height="200em" src= "https://github-readme-stats.vercel.app/api?username=LucasSilva2005&show_icons=true&theme=radical"/>username=LucasSilva2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
 </div>
 
 
