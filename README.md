@@ -1,11 +1,22 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Silva</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 🌱 Studying Java, Python and Javascript
-- 💞️ I currently study at FIAP
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+da+Silva+Ferreira;I'm+18+years+old;I+am+from+São+Paulo,+SP;I+study+Information+systems+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-  <img height="200em" src= "https://github-readme-stats.vercel.app/api?username=LucasSilva2005&show_icons=true&theme=radical"/>username=LucasSilva2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasSilva2005&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+<a href="https://www.instagram.com/lucasdasilvaferreira972/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasSilva2005&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lucas da Silva Ferreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilva2005&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasSilva2005}/count.svg" /></p> 
+<br></div>
 
 
 ### Front-End Development
@@ -44,3 +55,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasSilva2005/LucasSilva2005/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasSilva2005/LucasSilva2005/output/github-contribution-grid-snake.svg">
 </picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
